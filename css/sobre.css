@@ -1,0 +1,26 @@
+.texto {
+    font-family: Arial;
+    font-size: 20pt;
+}
+
+.video {
+    width: 99%;
+    max-height: 99%;
+}
+
+.zoom {
+    text-align: center;
+    font-family: Arial;
+    font-size: 40pt;
+}
+
+.zoom a {
+    color: black;
+    text-decoration: none;
+}
+
+.zoom a:hover{
+    color: grey;
+    text-decoration: underline;
+    font-size: 42pt;
+}

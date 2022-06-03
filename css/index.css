@@ -1,0 +1,23 @@
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+.img img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
+
+.register {
+    text-align: center;
+    margin: 2%;
+}
+
+.register a {
+    font-size: 40px;
+    font-family: Arial;
+    color: black;
+}
